@@ -3,7 +3,7 @@
 ## <img alt="JC-pic" height="35" style="border-radius:50px;" src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/aa67ea7d695bad8.png"> Olá! Sou Julio Cesar, estudante de programação, games e tecnologia!
 
 <div align="center">
-  <a href="https://github.com/JulioDesar">
+  <a href="https://github.com/JulioDesar" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioDesar&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioDesar&layout=compact&langs_count=7&theme=jolly"/>
 </div>
@@ -22,10 +22,10 @@
   ##
   
   <div> 
-  <a href = "cesarj598@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "cesarj598@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/juliodesar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://desarproduction.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
-   <a href="https://steamcommunity.com/id/JulioDesar/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href="https://desarproduction.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"></a>
+   <a href="https://steamcommunity.com/id/JulioDesar/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
     
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
