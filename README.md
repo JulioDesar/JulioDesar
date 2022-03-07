@@ -2,7 +2,7 @@
 
 ## <img alt="JC-pic" height="35" style="border-radius:50px;" src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/aa67ea7d695bad8.png"> Olá! Sou Julio Cesar, estudante de programação, games e tecnologia!
 
-<div align="right">
+<div align="center">
   <a href="https://github.com/JulioDesar" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioDesar&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioDesar&layout=compact&langs_count=7&theme=jolly"/>
