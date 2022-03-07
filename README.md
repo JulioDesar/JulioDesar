@@ -2,7 +2,7 @@
 
 ## <img alt="JC-pic" height="35" style="border-radius:50px;" src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/aa67ea7d695bad8.png"> Olá! Sou Julio Cesar, estudante de programação, games e tecnologia!
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/JulioDesar" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioDesar&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioDesar&layout=compact&langs_count=7&theme=jolly"/>
@@ -16,6 +16,7 @@
   <img align="center" alt="JC-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="JC-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JC-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JC-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="right" alt="JC-pic" height="150" style="border-radius:50px;" src="http://pa1.narvii.com/6792/97c52308234c70c6caeb25a41c0388806c149ea8_00.gif">
 </div>
   
