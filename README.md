@@ -1,6 +1,6 @@
 
 
-## <img alt="JC-pic" style="border-radius:50px;" src="https://i.redd.it/wryvcm9orbbb1.gif"> 
+## <img alt="JC-pic" style="border-radius:50px;" src="https://i.pinimg.com/originals/fb/af/44/fbaf443c014bf40b95cfa35121572b25.gif"> 
 
 <div align="center">
 
